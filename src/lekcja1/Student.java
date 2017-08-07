@@ -5,6 +5,8 @@ public class Student {
 int wiek;
 String imie;
 String nazwisko;
+String plec;
+
 	
 
 }
