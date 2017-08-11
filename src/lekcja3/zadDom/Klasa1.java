@@ -6,7 +6,7 @@ public static void main(String[] args) {
 		
 		Klasa2 kk2 = new Klasa2();
 		
-		Klasa2 kk22 = new Klasa2(7);
+	//	Klasa2 kk22 = new Klasa2(7);
 		
 		kk2.setString1("aaaa");
 		kk2.setZmienna1(22);
