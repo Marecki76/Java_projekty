@@ -11,7 +11,7 @@ public class Klasa1 {
 			System.out.println(args[0]);
 		}
 
-		System.out.println("D≈Çugo≈õƒá:" + args.length);
+		System.out.println("D≥ugoúÊ:" + args.length);
 		
 		if(args.length > 1) {
 			System.out.println(args[1]);
@@ -20,7 +20,7 @@ public class Klasa1 {
 		if (args[0].equals("Rima")) {
 			System.out.println("Parametr to Rima");
 		} else {
-			System.out.println("Jaki≈õ inny parametr");
+			System.out.println("Jakiú inny parametr");
 		}
 
 	}
