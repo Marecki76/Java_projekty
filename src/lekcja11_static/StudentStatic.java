@@ -4,7 +4,7 @@ public class StudentStatic {
 	
 	int numer;
 	String nazwisko;
-	static String uczelnia="MIR-PIB";
+	static String uczelnia="MIR";
 	
 	public StudentStatic(int numer, String nazwisko) {
 		this.numer = numer;
